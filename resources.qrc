@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/note">
+        <file>img/close.png</file>
+        <file>img/create.png</file>
+        <file>img/open.png</file>
+        <file>img/author.png</file>
+        <file>img/question.png</file>
+        <file>img/save.png</file>
+    </qresource>
+    <qresource prefix="/apps">
+        <file>img/auth.png</file>
+        <file>img/calculator.png</file>
+        <file>img/counter.png</file>
+        <file>img/flower.png</file>
+        <file>img/login.png</file>
+        <file>img/note.png</file>
+        <file>img/todo.png</file>
+        <file>img/player.png</file>
+    </qresource>
+    <qresource prefix="/auth">
+        <file>img/login.png</file>
+    </qresource>
+    <qresource prefix="/todo">
+        <file>img/add.png</file>
+        <file>img/remove.png</file>
+    </qresource>
+    <qresource prefix="/player">
+        <file>img/dancingCat.gif</file>
+        <file>img/music.png</file>
+        <file>img/video.png</file>
+    </qresource>
+</RCC>

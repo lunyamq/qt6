@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "C:/Qt/src/Test/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/Test_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Qt/src/Test/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Qt/src/Test/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Qt/src/Test",
+	"CMAKE_SOURCE_DIR" : "C:/Qt/src/Test",
+	"INCLUDE_DIR" : "C:/Qt/src/Test/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/Test_autogen/include",
+	"INPUTS" : [],
+	"LOCK_FILE" : "C:/Qt/src/Test/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/Test_autogen.dir/AutoRcc_photo_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "photo" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_photo.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.7.1/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Qt/src/Test/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/Test_autogen.dir/AutoRcc_photo_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Qt/src/Test/photo.qrc",
+	"VERBOSITY" : 0
+}
